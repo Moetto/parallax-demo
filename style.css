@@ -1,0 +1,50 @@
+#d1 {
+    position: fixed;
+    left: 100px;
+    top: 10px;
+    background-color: red;
+    width: 50%;
+    height: 400px;
+}
+
+#d3 {
+    position: fixed;
+    left: 100px;
+    top: 450px;
+    background-color: yellow;
+    width: 50%;
+    height: 400px;
+}
+
+.card {
+    background-color: green;
+    margin-left: 5%;
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.top {
+    position: absolute;
+    top: 40px;
+}
+
+.bottom {
+    position: absolute;
+    top: 20px;
+}
+
+.cards {
+    height: 100%;
+    background-color: teal;
+}
+
+html {
+    height: 1000%;
+}
+
+body {
+    height: 100%;
+}
